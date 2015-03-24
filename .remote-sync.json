@@ -1,0 +1,12 @@
+{
+  "transport": "ftp",
+  "hostname": "eu5.org",
+  "port": "21",
+  "username": "azizapp.eu5.org",
+  "password": "eagles95",
+  "target": "/droplet",
+  "ignore": [
+    ".git/**"
+  ],
+  "uploadOnSave": true
+}
